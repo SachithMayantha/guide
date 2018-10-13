@@ -5,6 +5,13 @@ title: Final
 ## final
 You use the `final` keyword to mark a variable constant, so that it can be assigned only once. So you must initialize a final variable with a value. If its not initialized (when declared, inside Constructor or inside static blocks), compile time error will occur.
 
+The final keyword in java is used to restrict the user. The java final keyword can be used in many context. Final can be:
+
+variable
+method
+class
+The final keyword can be applied with the variables, a final variable that have no value it is called blank final variable or uninitialized final variable. It can be initialized in the constructor only.
+
 ***Example:***
 ```java
 class MyClass {
