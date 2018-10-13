@@ -4,10 +4,11 @@ title: Arrays
 
 # Array
 
-An Array is a collection of values (or objects) of similar datatypes (primitive and reference both form of datatypes are allowed) held in sequencial memory addresses.
-An Array is used to store a collection of similar data types. 
-Arrays always start with the index of 0 and are instantiated to a set number of indexes. 
-All the variables in the array must be of the same type, declared at instantiation.
+Java provides a data structure, the array, which stores a fixed-size sequential collection of elements of the same type. An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.
+
+Instead of declaring individual variables, such as number0, number1, ..., and number99, you declare one array variable such as numbers and use numbers[0], numbers[1], and ..., numbers[99] to represent individual variables.
+
+To use an array in a program, you must declare a variable to reference the array, and you must specify the type of array the variable can reference. Here is the syntax for declaring an array variable 
 
 **Syntax:**
 
