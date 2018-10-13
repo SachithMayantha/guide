@@ -2,6 +2,8 @@
 title: Methods
 ---
 # Methods
+A Java method is a collection of statements that are grouped together to perform an operation. When you call the System.out.println() method, for example, the system actually executes several statements in order to display a message on the console.
+
 The most recognizable method in Java is probably `public static void main(String[]args)` where `public` means that users have access to the method, `static` means that the method is based on a "class" rather than an "instance," `void` means that nothing will be returned from the method to another (higher level) method, and `main` which is the name of this particular method.
 
 `getName()` and `getManufacturerName()` are two "Getter" methods we have used here. Generally, methods in Java consist of these parts - 
