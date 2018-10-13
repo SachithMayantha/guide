@@ -7,6 +7,14 @@ Have you ever wanted to define how people would access some of your properties? 
 
 Similarly to how you set a level of access to your posessions, Java controls access, too. You want to define the access level for variables, methods and classes depending on which other classes you want accessing them.
 
+Modifiers are keywords that you add to those definitions to change their meanings. Java language has a wide variety of modifiers, including the following −
+
+Java Access Modifiers
+
+Non Access Modifiers
+
+To use a modifier, you include its keyword in the definition of a class, method, or variable. 
+
 Java provides 4 levels of access modifiers. This means that you can modify access to a variable, method or a class in 4 ways. These 4 ways are private, public, protected and default.
 
 These access modifiers can be applied to fields, methods and classes (Classes are a special case, we will look at them at the end of this artice). Here is a quick overview<sup>1</sup> of what the `Access Levels` are for each `Access Modifier`:
